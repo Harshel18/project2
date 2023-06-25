@@ -1,0 +1,22 @@
+body {
+    border: 8px solid;
+    text-align: center;
+    
+    background-color: rgb(225, 230, 209);
+}
+
+input{
+    margin: 3px;
+    border: solid 3px;
+    font-size: medium;
+}
+
+button{
+    margin: 3px;
+    width: 100px;
+    border: solid 3px;
+    font-size: medium;
+    padding:7px
+    
+}
+
